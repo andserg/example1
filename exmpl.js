@@ -1,8 +1,8 @@
 console.log("Create array");
-var a = "a";
-var b = "b";
-var c = "c";
-var d = "d";
+var a = "Alpha";
+var b = "Beta";
+var c = "Gamma";
+var d = "Delta";
 var array = [];
 
 for(var i=1; i <= 100 ; i++) {
