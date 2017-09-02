@@ -12,6 +12,8 @@ for(var i=1; i <= 100 ; i++) {
 
 console.log("Array was created");
 
+/* Checking conditions */
+
 for(var i=1; i <= 100 ; i++) {
 	if(array[i] % 3 === 0 && array[i] % 5 === 0) {
 		array[i] = a + b;
