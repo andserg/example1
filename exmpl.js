@@ -45,7 +45,11 @@ for(var i=1; i <= 100 ; i++) {
 	}
 }
 
+/*
+Commented code just for example
+
 console.log("Print array with replacement.");
 for(var i=1; i <= 100 ; i++) {
 	console.log(array[i]);
+*/
 }
